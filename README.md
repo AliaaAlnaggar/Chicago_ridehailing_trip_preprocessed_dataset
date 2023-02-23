@@ -6,4 +6,4 @@ The dataset is a filteration of the Chicago ride-hailing trip dataset (TNP-Chica
 The full citation of the paper will be provided once the peer review process is complete. 
 
 References: 
-TNP-Chicago-Trips. (2019). Transportation network providers - trips. https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p. (Accessed on 2021-06-20)
+TNP-Chicago-Trips. (2019). Transportation network providers - trips. https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p. 
